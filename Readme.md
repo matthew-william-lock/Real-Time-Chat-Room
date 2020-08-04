@@ -24,3 +24,7 @@ This app used the [bad-words](https://www.npmjs.com/package/bad-words) module to
 ## Timestamp Formatting
 
 This appliction uses [moment](https://momentjs.com/) to format timestamps.
+
+## Additional Tools
+
+Some of the tools used to deploy the server were used in my [task manager application](https://github.com/matthew-william-lock/task-manager-application). A more detailed explanation of how these two applications were deployed can be found there.
