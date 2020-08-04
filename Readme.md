@@ -1,6 +1,11 @@
 # Real Time Chat Application
 
-This application used the WebSocket Protocol to create a real time chat application. 
+This application used the WebSocket Protocol to create a real time chat application. Features of the chat room include:
+- Real time user tracking (to see who is in a particular chatroom)
+- Real time messaging
+- Prevention of users joining a room with the same username
+- Smart autoscrolling
+- Location sharing
 
 Features of the WebSocket Protocol:
 - Both the client and server are able to initiate communications with one another (full-duplex communication).
